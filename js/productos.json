@@ -1,182 +1,241 @@
 [
     {
-        "id": "abrigo-01",
-        "titulo": "Abrigo 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "id": "Converse-01",
+        "titulo": "Chuck Taylor All Star Blanca Tela",
+        "imagen": "https://backend.converse.com.ar/media/image/ba/4f/fa21357af6e2a70b5e9ff78865be.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 69500
     },
     {
-        "id": "abrigo-02",
-        "titulo": "Abrigo 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "id": "Converse-02",
+        "titulo": "Chuck Taylor All Star Azul Tela",
+        "imagen": "https://backend.converse.com.ar/media/image/cf/39/bbfe3bb1eedf4b98878c6776ed37.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 69000
     },
     {
-        "id": "abrigo-03",
-        "titulo": "Abrigo 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "id": "Converse-03",
+        "titulo": "Chuck Taylor All Star Rojo Tela",
+        "imagen": "https://backend.converse.com.ar/media/image/5f/ca/b67c10a16929627553a0ef24a01e.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 71000
     },
     {
-        "id": "abrigo-04",
-        "titulo": "Abrigo 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "id": "Converse-04",
+        "titulo": "Chuck Taylor All Star Negro Tela",
+        "imagen": "https://backend.converse.com.ar/media/image/34/9d/c41f15691d854dfc61dcf320f677.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 70000
     },
     {
-        "id": "abrigo-05",
-        "titulo": "Abrigo 05",
-        "imagen": "./img/abrigos/05.jpg",
+        "id": "Converse-05",
+        "titulo": "Chuck Taylor All Star Negro Caña Alta",
+        "imagen": "https://backend.converse.com.ar/media/image/9b/27/ffdea021ed840126e8f0a5a42725.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 85000
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "id": "Converse-06",
+        "titulo": "Chuck Taylor All Star Bordo Caña Alta",
+        "imagen": "https://backend.converse.com.ar/media/image/1c/14/4759a5738d3278140f4b419e1a4b.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 85000
     },
     {
-        "id": "camiseta-02",
-        "titulo": "Camiseta 02",
-        "imagen": "./img/camisetas/02.jpg",
+        "id": "Converse-07",
+        "titulo": "Chuck Taylor All Star Beige Caña Alta",
+        "imagen": "https://backend.converse.com.ar/media/image/c9/36/e430a6b0d1b18b078d1cf78ffa9c.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 85000
     },
     {
-        "id": "camiseta-03",
-        "titulo": "Camiseta 03",
-        "imagen": "./img/camisetas/03.jpg",
+        "id": "Converse-08",
+        "titulo": "Chuck Taylor All Star Verde Caña Alta",
+        "imagen": "https://backend.converse.com.ar/media/image/23/fe/5002974a03c01002aa2ed262f824.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Converse",
+            "id": "Converse"
         },
-        "precio": 1000
+        "precio": 85000 
     },
     {
-        "id": "camiseta-04",
-        "titulo": "Camiseta 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "id": "Vans-01",
+        "titulo": "ZapatillasU OLD SKOOL",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/2/7/8077346.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 72000
     },
     {
-        "id": "camiseta-05",
-        "titulo": "Camiseta 05",
-        "imagen": "./img/camisetas/05.jpg",
+        "id": "Vans-02",
+        "titulo": "ZapatillasU SK8-Low",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/2/13/8093664.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 71000
     },
     {
-        "id": "camiseta-06",
-        "titulo": "Camiseta 06",
-        "imagen": "./img/camisetas/06.jpg",
+        "id": "Vans-03",
+        "titulo": "ZapatillasW SK8-HI PLATFORM",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/4/27/8302076.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 79000
     },
     {
-        "id": "camiseta-07",
-        "titulo": "Camiseta 07",
-        "imagen": "./img/camisetas/07.jpg",
+        "id": "Vans-04",
+        "titulo": "ZapatillasW Old Skool Platform",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2021/8_5/0/107/28/7019768.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 74000
     },
     {
-        "id": "camiseta-08",
-        "titulo": "Camiseta 08",
-        "imagen": "./img/camisetas/08.jpg",
+        "id": "Vans-05",
+        "titulo": "ZapatillasU SK8-HI",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/2/13/8093553.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 76000
     },
     {
-        "id": "pantalon-01",
-        "titulo": "Pantalón 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "id": "Vans-06",
+        "titulo": "ZapatillasU AUTHENTIC",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/2/10/8086402.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 45000
     },
     {
-        "id": "pantalon-02",
-        "titulo": "Pantalón 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "id": "Vans-07",
+        "titulo": "ZapatillasU SK8-HI",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/2/13/8093612.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 76000
     },
     {
-        "id": "pantalon-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "id": "Vans-08",
+        "titulo": "ZapatillasU SK8-HI",
+        "imagen": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/6/5/8449887.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Vans",
+            "id": "Vans"
         },
-        "precio": 1000
+        "precio": 76000
     },
     {
-        "id": "pantalon-04",
-        "titulo": "Pantalón 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "id": "Gola-01",
+        "titulo": "RALLY CMB395",
+        "imagen": "https://www.golasouth.com/media/catalog/product/e/n/en_08555_copia_1_1_1.jpg?quality=100&fit=bounds&height=&width=",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Gola",
+            "id": "Gola"
         },
-        "precio": 1000
+        "precio": 109000
     },
     {
-        "id": "pantalon-05",
-        "titulo": "Pantalón 05",
-        "imagen": "./img/pantalones/05.jpg",
+        "id": "Gola-02",
+        "titulo": "SUPER QUARTER MAX",
+        "imagen": "https://www.golasouth.com/media/catalog/product/e/n/en_03841-2_copia_1_1.jpg?quality=100&fit=bounds&height=&width=",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Gola",
+            "id": "Gola"
         },
-        "precio": 1000
+        "precio": 75000
+    },
+    {
+        "id": "Gola-03",
+        "titulo": "SUPER QUARTER MAX",
+        "imagen": "https://www.golasouth.com/media/catalog/product/8/3/830113901_superquarter_max_gris-blanco_1_.jpg?quality=100&fit=bounds&height=&width=",
+        "categoria": {
+            "nombre": "Gola",
+            "id": "Gola"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "Gola-04",
+        "titulo": "SUPER QUARTER MAX",
+        "imagen": "https://www.golasouth.com/media/catalog/product/8/3/830113901_superquarter_max_negro-gris_1_.jpg?quality=100&fit=bounds&height=&width=",
+        "categoria": {
+            "nombre": "Gola",
+            "id": "Gola"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "Gola-05",
+        "titulo": "VARSITY",
+        "imagen": "https://www.golasouth.com/media/catalog/product/8/2/828113904_varsity_marino-crudo_1_.jpg?quality=100&fit=bounds&height=&width=",
+        "categoria": {
+            "nombre": "Gola",
+            "id": "Gola"
+        },
+        "precio": 89000
+    },
+    {
+        "id": "Gola-06",
+        "titulo": "SUPER QUARTER",
+        "imagen": "https://www.golasouth.com/media/catalog/product/e/n/en_07831_copia_1.jpg?quality=100&fit=bounds&height=&width=",
+        "categoria": {
+            "nombre": "Gola",
+            "id": "Gola"
+        },
+        "precio": 75000
+    },
+    {
+        "id": "Gola-05",
+        "titulo": "SUPER QUARTER",
+        "imagen": "https://www.golasouth.com/media/catalog/product/e/n/en_07827_copia_1.jpg?quality=100&fit=bounds&height=&width=",
+        "categoria": {
+            "nombre": "Gola",
+            "id": "Gola"
+        },
+        "precio": 75000
+    },{
+        "id": "Gola-05",
+        "titulo": "DAYTONA",
+        "imagen": "https://www.golasouth.com/media/catalog/product/i/m/img_8669_1_1.jpg?quality=100&fit=bounds&height=&width=",
+        "categoria": {
+            "nombre": "Gola",
+            "id": "Gola"
+        },
+        "precio": 10000
     }
 ]
